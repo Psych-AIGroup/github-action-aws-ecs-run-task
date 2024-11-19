@@ -9,6 +9,8 @@ on:
 
 jobs:
   release:
+    permissions:
+      contents: write
     name: Create Release
     if: github.event.action != 'labeled'
     runs-on: ubuntu-latest
