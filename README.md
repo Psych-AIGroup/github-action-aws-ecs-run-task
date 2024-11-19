@@ -6,7 +6,7 @@
 
 <!-- action-docs-description -->
 ## Description
-
+TEST
 Run an AWS ECS Fargate task and execute a custom commands. See the log output of the commands.
 <!-- action-docs-description -->
 
